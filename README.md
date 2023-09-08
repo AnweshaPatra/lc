@@ -1,2 +1,2 @@
 # leetCode 
-All LeetCode Submissions
+All LeetCode Submissions since the repository was created.
