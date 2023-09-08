@@ -1,2 +1,2 @@
-# lc
+# leetCode 
 All LeetCode Submissions
